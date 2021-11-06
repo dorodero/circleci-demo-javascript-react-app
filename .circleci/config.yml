@@ -16,5 +16,5 @@ jobs:
           command: npm install
       - run:
           name: Run test
-          comannd: npm run test
+          command: npm run test
       - run: node --version
